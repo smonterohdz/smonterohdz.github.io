@@ -31,8 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: 'mailto:s.montero[AT]bham.ac.uk'
+    label: s.montero[AT]bham.ac.uk
   - icon: brands/x
     url: https://x.com/s_monterohdz
   #- icon: brands/instagram
