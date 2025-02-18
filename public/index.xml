@@ -7,7 +7,7 @@
     <description>Samuel Montero-Hernandez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_983e8a327a3f44c8.png</url>
       <title>Samuel Montero-Hernandez</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -39,7 +39,7 @@
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
@@ -145,7 +145,7 @@
 
 
 
-&lt;div id=&#34;chart-738659421&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-658794123&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -163,7 +163,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-738659421&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-658794123&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
